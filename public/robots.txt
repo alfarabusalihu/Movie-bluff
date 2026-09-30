@@ -1,0 +1,6 @@
+# User-agent directive for MovieExplorer
+User-agent: *
+Allow: /
+
+# Disallow demo login route indexing
+Disallow: /login
